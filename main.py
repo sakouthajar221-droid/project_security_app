@@ -1,5 +1,5 @@
 """
-main.py — Point d'entrée de l'application CyberShield
+main.py — Point d'entrée de l'application Cyber
 """
 import customtkinter as ctk
 from gui.main_window import MainApp
